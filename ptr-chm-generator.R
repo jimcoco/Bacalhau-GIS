@@ -1,4 +1,3 @@
-#DEMO GUIDE
 #without subcircle, without interpolation = 1, 2, 2
 #with subcircle, with interpolation = 0.5, 1, 0.20, 1
 
