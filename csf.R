@@ -1,4 +1,3 @@
-#DEMO GUIDE
 #If choose 1, the program will perform default calculation
 #If choose 2, custom val = 1, 1, 1, 1
 #===============================================================================================
