@@ -1,5 +1,3 @@
-#NO DEMO FOR THIS PROGRAM
-
 library(lidR)
 library(terra)
 
